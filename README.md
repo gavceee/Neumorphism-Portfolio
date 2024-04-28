@@ -26,3 +26,5 @@ Modify the CSS styles in the provided stylesheet to customize the colors, typogr
 Replace the images in the project with your own project screenshots, profile picture, or any other relevant images.
 Deployment
 To deploy the Neumorphism Portfolio Website, upload the project files to a web server or hosting service of your choice. Ensure that the HTML file (index.html), the CSS file (styles.css), and the Bootstrap files are properly linked in the project.
+Gavin
+Version control
